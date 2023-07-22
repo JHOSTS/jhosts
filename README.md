@@ -2,8 +2,7 @@
 Mas pode me chamar de Jhow, Jho, Jhon...como preferir 
 
 - 🔭 Trabalhando atualmente com back-end (C#) e desenvolvimento PL/SQL e front-end utilizando a biblioteca DevExpress e JavaScript;
-- 🌱 Estudando C#, HTML, CSS, Java Script e Banco de dados (SQL);
-- 😄 Pronouns: ele/dele
+- 🌱 Estudando C#, HTML, CSS, Java Script, Banco de dados (SQL), API Rest e ENTITY FRAMEWORK;
 
 <div align="center">
   <a href="https://github.com/JHOSTS">
